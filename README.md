@@ -18,6 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=still34&show_icons=true&theme=dark&locale=en" alt="still34" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=still34&show_icons=true&theme=dark&locale=en&layout=compact" alt="still34" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=still34&theme=dark" alt="still34" /></p>
