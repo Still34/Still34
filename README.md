@@ -4,7 +4,7 @@
 ### Infrequent Articles
 
 - Available at [stillu.cc](stillu.cc)
-- <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstillu.cc&logo=github&style=flat-square" /></a>
+- <a href="https://stillu.cc" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstillu.cc&logo=github&style=flat-square" /></a>
 
 ### How to Reach me
 
