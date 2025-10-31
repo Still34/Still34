@@ -1,10 +1,10 @@
-<h1 align="center">👋 Still</h1>
-<h3 align="center">Threat intelligence researcher/analyst, PowerShell/.NET addict, etc.</h3>
+<h1 align="center">👋 Still / Azaka</h1>
+<h3 align="center">Employed threat intelligence researcher, independent VTuber, PowerShell/.NET addict, etc.</h3>
 
-### Infrequent Articles
+### Website
 
-- Available at [stillu.cc](https://stillu.cc)
-- <a href="https://stillu.cc" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fstillu.cc&logo=github&style=flat-square" /></a>
+- [azaka.fun](https://azaka.fun/) - Landing page for various socials
+- [stillu.cc](https://stillu.cc/) - Infrequently updated blog
 
 ### How to Reach me
 
